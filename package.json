@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GuchenGit/StatisticsBot/issues"
   },
-  "homepage": "https://github.com/GuchenGit/StatisticsBot#readme"
+  "homepage": "https://github.com/GuchenGit/StatisticsBot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
 }
