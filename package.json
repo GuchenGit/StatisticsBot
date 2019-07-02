@@ -1,0 +1,19 @@
+{
+  "name": "statisticsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuchenGit/StatisticsBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuchenGit/StatisticsBot/issues"
+  },
+  "homepage": "https://github.com/GuchenGit/StatisticsBot#readme"
+}
