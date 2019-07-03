@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/GuchenGit/StatisticsBot#readme",
   "dependencies": {
-    "discord.js": "^11.5.1"
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "request": "^2.88.0"
   }
 }
